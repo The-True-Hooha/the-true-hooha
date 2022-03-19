@@ -4,7 +4,7 @@
 [![Linkedin: David](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-ogar/)](https://www.linkedin.com/in/david-ogar/)
 
 
-&nbsp; About Me
+## &nbsp; About Me
 
 🎓 &nbsp;I'm currently in my penultimate year at the Federal University of Petroleum Resources, Effurun\
 💡 &nbsp;I enjoy working with Java, nodejs plus add a little design to the mix. Exploring Reverse Engineering and Autonomous Engineering.\
