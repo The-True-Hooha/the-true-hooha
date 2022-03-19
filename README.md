@@ -11,7 +11,8 @@
 🌱 &nbsp;I'm on track for learning more, and building stuffs with Java, Python, Nodejs, Systems Design, Algorithms, and Contributing to Open Source.\
 ⚡ &nbsp; Fact: I love to play the drums and bass guitar.\
 ✉️ &nbsp;You can reach me through: `email: owogogahhero@outlook.com`
-I have my notifications turned on, I'll always respond on time, or `twitter: @TheTrueHooha_I`\
+I have my notifications turned on,
+I'll always respond on time, or `twitter: @TheTrueHooha_I`\
 
 ## Find me: 🌎
 
