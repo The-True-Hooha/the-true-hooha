@@ -7,7 +7,7 @@
 ## &nbsp; About Me
 
 
-💡 &nbsp;I'm skilled with Java, Nodejs, some design knowledge to add. Exploring Reverse and Autonomous Engineering.\
+💡 &nbsp; Java, Python and Nodejs. Exploring Reverse and Autonomous Engineering.\
 🌱 &nbsp;I'm on track for learning more, and building more stuffs with Java, Python, Nodejs, Systems Design, Algorithms, and Contributing to Open Source.\
 ⚡ &nbsp; A thing or two: I play the drums and bass guitar.\
 ✉️ &nbsp; Reach me through: `email: owogogahhero@outlook.com`
