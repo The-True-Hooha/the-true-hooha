@@ -7,9 +7,7 @@
 ## &nbsp; About Me
 
 
-💡 &nbsp; My reserach interest and activities includes: Backend, autonomous and reverse engineering.\
-🌱 &nbsp;I'm on track for learning more about building reliable software, system design, algorithms, and Contributing to Open Source.\
-⚡ &nbsp; A thing or two: I play the drums and bass guitar.\
+💡 &nbsp; My interest and activities includes: Backend, autonomous and reverse engineering.\
 ✉️ &nbsp; Reach me through: `email: owogogahhero@outlook.com`
 I have my notifications turned on,
 I'll always respond on time, or `twitter: @TheTrueHooha_I`
