@@ -10,7 +10,7 @@
 💡 &nbsp; My interest and activities includes: Backend, autonomous and reverse engineering.\
 ✉️ &nbsp; Reach me through: `email: owogogahhero@outlook.com`
 I have my notifications turned on,
-I'll always respond on time, or `twitter: @TheTrueHooha_I`
+I'll always respond on time.\
 
 ## Find me: 🌎
 
