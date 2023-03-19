@@ -4,13 +4,14 @@
 [![Linkedin: David](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-ogar/)](https://www.linkedin.com/in/david-ogar/)
 
 
-## &nbsp; About Me
+## &nbsp; About Me - Curiosity, Ingenuity & Perseverance
 
 
 💡 &nbsp; My interest and activities includes: Backend, autonomous and reverse engineering.\
-✉️ &nbsp; Reach me through: `email: owogogahhero@outlook.com`
-I have my notifications turned on,
-I'll always respond on time. &nbsp;
+✉️ &nbsp; Reach me through: `email: owogogahhero@outlook.com`\
+👨🏽‍💻 &nbsp; Languages: Java, Typescript, Rust🦀, Python🐍\
+&nbsp;I have my notifications turned on,
+I always respond on time. &nbsp;
 
 ## Find me: 🌎
 
