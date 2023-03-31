@@ -9,7 +9,6 @@
 
 💡 &nbsp; My interest and activities includes: Backend, distributed systems, and autonomous engineering.\
 ✉️ &nbsp; Reach me through: `email: owogogahhero@outlook.com`\
-👨🏽‍💻 &nbsp; Languages: Java, Typescript, Rust🦀, Python🐍\
 &nbsp;I have my notifications turned on,
 I always respond on time. &nbsp;
 
