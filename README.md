@@ -7,7 +7,7 @@
 ## &nbsp; About Me - Curiosity, Ingenuity & Perseverance
 
 
-💡 &nbsp; My interest and activities includes: Backend, autonomous and reverse engineering.\
+💡 &nbsp; My interest and activities includes: Backend, distributed systems, and autonomous engineering.\
 ✉️ &nbsp; Reach me through: `email: owogogahhero@outlook.com`\
 👨🏽‍💻 &nbsp; Languages: Java, Typescript, Rust🦀, Python🐍\
 &nbsp;I have my notifications turned on,
