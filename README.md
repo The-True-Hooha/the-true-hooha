@@ -7,7 +7,7 @@
 ## &nbsp; About Me - Curiosity, Ingenuity & Perseverance
 
 
-💡 &nbsp; My interest and activities includes: Backend, distributed systems, and autonomous engineering.\
+💡 &nbsp; My interest and activities includes: Backend, distributed systems, autonomous engineering, and Docs.\
 ✉️ &nbsp; Reach me through: `email: owogogahhero@outlook.com`\
 &nbsp;I have my notifications turned on,
 I always respond on time. &nbsp;
