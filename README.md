@@ -14,7 +14,7 @@ I always respond on time. &nbsp;
 
 ## Meta: 
 
-* Currently building — [Emerald](https://github.com/The-True-Hooha/emerald.git). Typically Obsidian, but on Steroids
+* Currently building — [Emerald](https://github.com/The-True-Hooha/emerald.git). Typically obsidian, but on steroids
 * Currently writing — [Serendipity by Design](https://serendipity-by-design.vercel.app/). My blog, curated to spark your thought process. 
 * My current work involves — Java with springboot, Nest.js with Typescript and TypeORM, AWS, Kubernetes, Docker.
 
