@@ -7,13 +7,14 @@
 ## &nbsp; About Me - Curiosity, Ingenuity & Perseverance
 
 
-💡 &nbsp; My interest and activities includes: Backend/Infrasture, Distributed Systems, Autonomosity, Docs\
+💡 &nbsp; My interest and activities include: Backend/Infrastructure, Distributed Systems, LLM/ML, Docs \
+👨‍💻 &nbsp; I ensure your packets get delivered unsniffed!!
 
 ## Meta: 
 
 * Currently building — [Emerald](https://github.com/The-True-Hooha/emerald.git). Typically obsidian, but on steroids
 * Currently writing — [Serendipity by Design](https://serendipity-by-design.vercel.app/). My blog, curated to spark your thought process. 
-* My current work involves — Java with springboot, Nest.js with Typescript, TypeORM, AWS, Kubernetes, Docker.
+* My current work involves — Java with Spring, Nest.js/Express with Typescript, TypeORM, AWS, Kubernetes, Docker, Jenkins, ELK.
 
 
 ## Find me: 🌎
