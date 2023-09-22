@@ -7,7 +7,7 @@
 ## &nbsp; About Me - Curiosity, Ingenuity & Perseverance
 
 
-💡 &nbsp; My interest and activities include: Backend/Infrastructure, Distributed Systems, LLM/ML, Docs \
+💡 &nbsp; Interest & activities: Backend/Infrastructure, Distributed Systems, LLM/ML, Docs \
 👨‍💻 &nbsp; I ensure your packets get delivered unsniffed!!
 
 ## Meta: 
