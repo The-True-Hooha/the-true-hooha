@@ -11,11 +11,11 @@
 👨‍💻 &nbsp; I ensure your packets get delivered unsniffed!!
 
 ## Meta: 
-
+<!---
 * Currently building — [Emerald](https://github.com/The-True-Hooha/emerald.git). Typically obsidian, but on steroids
 * Currently writing — [Serendipity by Design](https://serendipity-by-design.vercel.app/). My blog, curated to spark your thought process. 
 * My current work involves — Java with Spring, Nest.js/Express with Typescript, TypeORM, AWS, Kubernetes, Docker, Jenkins, ELK.
-
+-->
 
 ## Find me: 🌎
 
